@@ -132,11 +132,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/malicea1012/wax'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto: malicea@iu.edu'
   logos:
     - img: '/img/logo.png'
 
