@@ -4,8 +4,8 @@ title: Credits
 permalink: '/credits/'
 ---
 
-MADDIE SHIMURA--PRODUCER
+MADDIE SHIMURA is the producer who helped organize, plan, and execute the final product.
 
-REBEKAH PORTER--WRITER
+REBEKAH PORTER is the writer who wrote the content of our site and catalogued our progress towards its completion.
 
-MATTHEW ALICEA--TECHNOLOGIST
+MATTHEW ALICEA is the technologist who assembled the final website.
