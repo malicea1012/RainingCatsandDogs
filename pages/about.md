@@ -4,44 +4,22 @@ title: What is Wax?
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+**BLOOMINGTON ORDINANCE 21-45 AND ITS EFFECTS**
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+**You missed your chance to purchase a fur baby from your local Bloomington business.** On January 1, city council members passed an ordinance banning the sale of cats and dogs by retail pet stores. The ban has directly impacted local businesses. For example, Delilah’s Pet Shop has been open for over 40 years.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+The ordinance was passed in a unanimous 8-0 vote in response to puppy mills, which are commercial dog breeding facilities that breed for profit. 
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+As most of the animals sold in pet stores are common animals from mills, Monroe County felt it best to decrease unethical animal breeding and selling. 
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+The issue regarding the buying and selling from puppy mills first arose when people began complaining about Anthony’s Pet Shop, another shop in town. Claims were made about the treatment of the animals and where the animals were coming from. The city decided to rule out unethical practices regarding retail shops selling animals. They agreed it would be best to ban all shops, including Delilah’s Pet Shop.
 
-## Who is Wax for?
+At the Humane Society, Virgil Sauder, one of the overseers, spoke out about how he feels this ordinance will decrease unethical practices. Sauder states, “The ban comes from a place of wanting to increase care standards. That said, shelters will never be able to supply the puppies that people need. It’s just not going to happen”. He believes, “Overall, it’s a step forward,” but it will not make much difference—so many people purchased from these proclaimed puppy mills shops, allowing these animals to gain families. 
 
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
+Sauder claims that it will only increase the demand for animals, and often shelter animals cannot fit the needs of every person due to their developed behaviors, history, or age. He argues that puppies are an easy purchase for any family. Their personalities and behaviors are not fully developed, making the puppy adaptive to the family’s environment. 
 
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
+This ordinance was placed to increase the ethical selling of animals within the city. Many people feel this ban on selling animals hurts local businesses and increases animal demand. Businesses, such as Delilah’s Pet Shop, must relocate. Therefore, the ordinance impacted more than what meets the eye at the surface level.
 
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://studentcouncil.college.columbia.edu/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
 
 <a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
   <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
