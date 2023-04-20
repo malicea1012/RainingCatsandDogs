@@ -1,10 +1,8 @@
 ---
 layout: page
-title: What is Wax?
+title: **BLOOMINGTON ORDINANCE 21-45 AND ITS EFFECTS**
 permalink: /about/
 ---
-
-**BLOOMINGTON ORDINANCE 21-45 AND ITS EFFECTS**
 
 **You missed your chance to purchase a fur baby from your local Bloomington business.** On January 1, city council members passed an ordinance banning the sale of cats and dogs by retail pet stores. The ban has directly impacted local businesses. For example, Delilah’s Pet Shop has been open for over 40 years.
 
