@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BLOOMINGTON ORDINANCE 21-45 AND ITS EFFECTS
+title: Why Wax?
 permalink: /about/
 ---
 
