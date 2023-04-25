@@ -114,7 +114,7 @@ menu:
     sub:
       - label: 'Ordinance 21-45 Text'
         link: '/exhibits/a/'
-      - label: 'Delilah's and Anthony's'
+      - label: "Delilah's and Anthony's"
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
