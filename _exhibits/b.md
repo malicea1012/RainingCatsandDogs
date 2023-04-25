@@ -1,24 +1,15 @@
 ---
 layout: exhibit
-title: 'To be Determined'
-author: Bekah Porter
+title: 'The Businesses Affected'
+author: Rebekah Porter
 publish_date: 2023-4-25
 permalink: /exhibits/b/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.
+This exhibition showcases the conditions of animals at both Anthony’s Pet Shop and Delilah’s Pet Shop. Since the passing of Bloomington City Ordinance 21-45, stating that no business should profit from the sale of animals, both companies have seen changes in different ways. Anthony’s has completely moved out of Bloomington and has continued selling puppies, and Delilah’s has reduced their stock to only pet-related items such as food and toys. 
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+Delilah’s has been family owned for over 35 years. In that time, they've been selling ethically bred puppies from local breeders. Owner Leslie Henderson Miller took over the family business in 2022 when her mother died. She has made it her mission to keep her family’s legacy alive. Unfortunately, this ordinance ruins that dream. Henderson Miller feels the ordinance has good intentions but harms her small business. She’s passionate about animals and their care, stating, “We were not trying to do anything wrong. We are trying to make sure the children we have to end up with the families they need,” She says, “It is good and bad in everything that you do. You have to find the bad and pull the bad out.” Miller Henderson exclaimed that it’s been hard to relocate, especially since the shop has such a good reputation in Bloomington. 
 
-{% include inline_image.html collection='qatar' pid='obj7' %}
+Anthony’s Pet Shop was located in the College Mall and started the concern for the treatment of animals in Bloomington stores. Claims were made that the animals were coming from unethical puppy mills. Since the ordinance, the owner has moved his store out of Bloomington and continues to sell puppies through Facebook.
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
-
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
-
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
-
-
-{% include inline_image.html collection='qatar' pid='obj2' %}
-
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+Overall, the difference between Delilah’s and Anthony’s is the treatment and source of their animals. While Delilah’s Pet Shop prides itself on treating its animals while in their care, it took the blunt force of the ordinance drawback. The ordinance is for good in the long run but has affected small businesses.
