@@ -1,9 +1,9 @@
 ---
 layout: page
-show_title: false
+show_title: True
 banner:
-  collection: qatar
-  pid: obj10
+  collection: PetShopStop
+  pid: obj7
   y: 25%
   height: '500px'
 ---
@@ -14,4 +14,4 @@ __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for pr
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='PetShopStop' %}
