@@ -62,3 +62,5 @@ SECTION 17. This ordinance shall be in full force and effect beginning on Januar
 ---
 
 ### Notes
+
+The above ordinance was passed unanimously in an 8-0 decision.
