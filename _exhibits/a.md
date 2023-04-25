@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Bloomington, IN Ordinance 21-45'
 author: Susan Sandberg, Isabel Piedmont-Smith, Dave Rollo
-publish_date: TBD
+publish_date: 2021-12-01
 permalink: /exhibits/a/
 ---
 
