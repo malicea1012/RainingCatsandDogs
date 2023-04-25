@@ -112,7 +112,7 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Ordinance 21-45 Text'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
