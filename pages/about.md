@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Wax?
+title: ORDINANCE 21-45
 permalink: /about/
 ---
 
