@@ -19,8 +19,3 @@ At the Humane Society, Virgil Sauder, one of the overseers, spoke out about how 
 Sauder claims that it will only increase the demand for animals, and often shelter animals cannot fit the needs of every person due to their developed behaviors, history, or age. He argues that puppies are an easy purchase for any family. Their personalities and behaviors are not fully developed, making the puppy adaptive to the family’s environment. 
 
 This ordinance was placed to increase the ethical selling of animals within the city. Many people feel this ban on selling animals hurts local businesses and increases animal demand. Businesses, such as Delilah’s Pet Shop, must relocate. Therefore, the ordinance impacted more than what meets the eye at the surface level.
-
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
