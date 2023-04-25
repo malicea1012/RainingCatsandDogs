@@ -6,6 +6,8 @@ publish_date: 2021-12-01
 permalink: /exhibits/a/
 ---
 
+{% include obj9.jpg collection='PetShopStop' pid='obj9' %}
+
 **ORDINANCE 21-45 TO AMEND TITLE 7 OF THE BLOOMINGTON MUNICIPAL CODE ENTITLED "ANIMALS"
 **
  - Re: Amending Chapter 7.01 (Definitions); Chapter 7.16 (Commercial Animal Establishment Permits); Chapter 7.54 (Fees); and Chapter 7.56 (Enforcement Procedure) WHEREAS, Title 7 of the Bloomington Municipal Code ("BMC") sets forth provisions regarding the care and control of animals through the Animal Care and Control Division of the Department of Public Works for the City of Bloomington; and 
