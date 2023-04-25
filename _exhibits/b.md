@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Inline Image References'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'To be Determined'
+author: Bekah Porter
+publish_date: 2023-4-25
 permalink: /exhibits/b/
 ---
 
