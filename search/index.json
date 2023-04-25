@@ -1,0 +1,113 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "label": "Dogs at Delilah's",
+    "_date": "Unknown",
+    "object_type": "Pets",
+    "location": "2506 W. Third St., Bloomington, IN",
+    "description": "Healthy dogs being sold at Delilah's; these healthy living conditions are an unintended casualty of Ordinance 21-45.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj1",
+    "label": "Delilah's Pets Storefront",
+    "_date": "Dec. 3, 2021",
+    "object_type": "Building",
+    "location": "2506 W. Third St., Bloomington, IN",
+    "description": "Storefront of Delilah's Pets Shop, a pet store that many are calling an accidental casualty of Ordinance 21-45's pet selling ban.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj1",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj4",
+    "label": "Pets at Anthony's",
+    "_date": "Dec. 15, 2017",
+    "object_type": "Pets",
+    "location": "2894 E. Third St., Bloomington, IN",
+    "description": "Young dogs at Anthony's Pet Shop with no space; these are the kinds of poor conditions that Ordinance 21-45 aims to eliminate.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj4",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj9",
+    "label": "Bloomington City Hall",
+    "_date": "Feb. 3, 2023",
+    "object_type": "Building",
+    "location": "401 N. Morton St., Bloomington, IN",
+    "description": "Bloomington City Hall. The city council recently passed Ordinance 21-45 unanimously.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj9",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj8",
+    "label": "Anthony's Storefront--Closed",
+    "_date": "Mar. 22, 2023",
+    "object_type": "Building",
+    "location": "2894 E. Third St., Bloomington, IN",
+    "description": "Anthony's Pet Shop months after it is closed, a sign advertising new shop space in front. No pets will ever be sold out of it ever again.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj8",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj3",
+    "label": "Puppies in Fence",
+    "_date": "Sep. 26, 2019",
+    "object_type": "Pets",
+    "location": "Unknown",
+    "description": "Puppies behind a cramped fence; another example of puppy mill puppies in horrid conditions that Ordinance 21-45 puts a stop to.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj3",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj7",
+    "label": "Anthony's Storefront--Open",
+    "_date": "Unknown",
+    "object_type": "Building",
+    "location": "2894 E. Third St., Bloomington, IN",
+    "description": "Anthony's Pet Shop as it is being constructed as a new pet store.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj7",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj6",
+    "label": "Dogs at Anthony's",
+    "_date": "Unknown",
+    "object_type": "Pets",
+    "location": "2894 E. Third St., Bloomington, IN",
+    "description": "Malnourished puppy at Anthony's; while the storefront is shut down, Anthony's is still selling dogs via Facebook.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj6",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj2",
+    "label": "Puppies in Cages",
+    "_date": "Unknown",
+    "object_type": "Pets",
+    "location": "Unknown",
+    "description": "Puppies in cramped metal cages; these puppies come from puppy mills, the kinds of organizations that Ordinance 21-45 is attempting to stop.",
+    "collection": "PetShopStop",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/PetShopStop/obj2",
+    "lunr_id": 8
+  }
+]
