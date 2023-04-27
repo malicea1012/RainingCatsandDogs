@@ -1,6 +1,11 @@
 ---
 layout: exhibit
 title: 'The Businesses Affected'
+banner:
+  collection: PetShopStop
+  pid: obj9
+  y: 25%
+  height: '500px'
 author: Rebekah Porter
 publish_date: 2023-4-25
 permalink: /exhibits/b/
