@@ -1,6 +1,11 @@
 ---
 layout: page
 title: ORDINANCE 21-45
+banner:
+  collection: PetShopStop
+  pid: obj8
+  y: 25%
+  height: '250px'
 permalink: /about/
 ---
 
