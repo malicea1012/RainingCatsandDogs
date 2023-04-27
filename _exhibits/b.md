@@ -3,7 +3,7 @@ layout: exhibit
 title: 'The Businesses Affected'
 banner:
   collection: PetShopStop
-  pid: obj9
+  pid: obj8
   y: 25%
   height: '500px'
 author: Rebekah Porter
