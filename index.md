@@ -8,7 +8,8 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+This exhibit showcases the conditions of animals from small businesses in Bloomington before the passing of Ordinance 21-45. This ordinance bans the purchase and sale of animals in Bloomington. While this ordinance benefits the living conditions of these animals, small businesses are feeling the effects. 
+
 
 
 
